@@ -1,2 +1,5 @@
-# srt-to-pure-text
-A script to scrape the text of srt files.
+# SRT to Pure Text
+
+## Summary
+
+This script grabs all the text of an .srt file and outpouts it in a .txt file with the same name, under the same folder.
